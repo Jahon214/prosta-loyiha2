@@ -1,0 +1,377 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.best {
+    display: flex;
+    margin-left: 850px;
+    padding-top: 60px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #dfd3d3;
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: white;
+}
+
+.hidden {
+    background-image: url(../img/infinite-loop-01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 786px;
+}
+
+li {
+    padding-left: 20px;
+}
+
+.best2 {
+    position: relative;
+    right: 750px;
+    color: white;
+    list-style: none;
+    font-family: sans-serif;
+}
+
+.information {
+    text-align: center;
+    padding-top: 200px;
+}
+
+.inter1 {
+    font-size: 45px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.inter2 {
+    color: #dfd3d3;
+}
+
+/* /Header section */
+
+
+/* Main section */
+
+.key {
+    width: 100%;
+    height: 600px;
+    text-align: center;
+}
+
+.key2 {
+    padding-top: 150px;
+}
+
+.photos {
+    display: flex;
+    margin-left: 350px;
+}
+
+.photos-1 {
+    padding-left: 20px;
+}
+
+.key-1 {
+    color: rgb(87, 87, 225);
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.key-3 {
+    width: 40%;
+    margin-left: 450px;
+}
+
+
+.cont-1 {
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.cont-2 {
+    width: 50%;
+    color: #dfd3d3;
+    padding-left: 350px;
+    font-family: sans-serif;
+}
+
+.Contact {
+    width: 100%;
+    height: 800px;
+    background-image: url(../img/infinite-loop-03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact1 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.box-1 {
+    background-color: transparent;
+}
+
+.week {
+    width: 140px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.box-1 {
+    border: 1px solid white;
+    border-radius: 3px;
+    width: 300px;
+    height: 30px;
+}
+
+.contact2 {
+    padding-left: 350px;
+}
+
+.box3 {
+    display: flex;
+}
+
+.box {
+    display: flex;
+}
+
+.box2 {
+    display: flex;
+}
+
+.month2 {
+    padding-left: 100px;
+    display: flex;
+    color: white;
+}
+
+.year2 {
+    padding-left: 100px;
+    display: flex;
+    color: white;
+}
+
+.day2 {
+    padding-left: 100px;
+}
+
+.boxi {
+    height: 200px;
+}
+
+.full {
+    color: white;
+    font-size: 17px;
+    padding-left: 30px;
+}
+
+.day3 {
+    color: blue;
+    display: flex;
+}
+
+.day1 {
+    color: white;
+    display: flex;
+}
+
+.enable {
+    padding-left: 30px;
+}
+
+.foot {
+    padding-top: 130px;
+    padding-left: 570px;
+    color: whitesmoke;
+}
+
+.bool {
+    font-family: sans-serif;
+}
+
+.interface {
+    background-color: blue;
+    display: inline-block;
+    margin-left: 730px;
+    width: 60px;
+    height: 40px;
+}
+
+.head {
+    padding-top: 3px;
+    padding-left: 18px;
+    color: white;
+}
+
+
+/* About section */
+
+
+.infin {
+    color: blue;
+}
+
+.lamp {
+    color: blue;
+}
+
+.lamp:hover {
+    color: blue;
+}
+
+.apple {
+    height: 786px;
+    width: 100%;
+}
+
+.chair {
+    width: 80%;
+    margin-left: 150px;
+}
+
+.lamp2 {
+    color: blue;
+    font-size: 25px;
+}
+
+.lamp3 {
+    color: blue;
+    font-size: 20px;
+}
+
+.laptop2 {
+    width: 30%;
+    padding-left: 250px;
+    padding-right: 50px;
+}
+
+.laptop3 {
+    width: 30%;
+    padding-left: 80px;
+}
+
+.laptop {
+    display: flex;
+}
+
+.notepad {
+    display: flex;
+}
+
+.notepad2 {
+    width: 30%;
+    padding-left: 250px;
+    padding-right: 50px;
+}
+
+.notepad3 {
+    width: 30%;
+    padding-left: 80px;
+}
+
+.next {
+    color: blue;
+}
+
+.bag {
+    height: 30px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+}
+
+.bag2 {
+    width: 80px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+}
+
+.small-1 {
+    display: flex;
+    position: relative;
+    right: 70px;
+}
+
+.small {
+    padding-right: 30px;
+}
+
+.fixed {
+    background-image: url(../img/infinite-loop-02-mobile.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 800px;
+}
+
+.fixed-2 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.pages {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.pages2 {
+    width: 35%;
+    padding-left: 480px;
+    color: whitesmoke;
+}
+
+.temp {
+    width: 25%;
+    padding-left: 50px;
+}
+
+.images {
+    border-radius: 50%;
+    position: relative;
+    left: 70px;
+}
+
+.fixed2 {
+    display: flex;
+    padding-top: 150px;
+    margin-left: 200px;
+    color: whitesmoke;
+}
+
+.nix {
+    background-color: blue;
+    width: 115px;
+    height: 18px;
+    display: inline-block;
+    padding-left: 10px;
+    color: white;
+    border-radius: 3px;
+}
+.lest:hover{
+    color:black;
+}
+.desk{
+    position: relative;
+    left: 180px;
+}
+
+.navbar{
+    width: 100%;
+    height: 80px;
+}
